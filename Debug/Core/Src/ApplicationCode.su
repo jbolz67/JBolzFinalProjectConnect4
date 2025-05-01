@@ -1,0 +1,11 @@
+../Core/Src/ApplicationCode.c:26:6:ApplicationInit	8	static,ignoring_inline_asm
+../Core/Src/ApplicationCode.c:51:6:StartGame	8	static
+../Core/Src/ApplicationCode.c:55:6:LCD_Visual_Demo	8	static
+../Core/Src/ApplicationCode.c:61:6:LCD_Touch_Polling_Demo	8	static
+../Core/Src/ApplicationCode.c:78:6:GameOverWaitForInput	16	static
+../Core/Src/ApplicationCode.c:98:6:titleWaitForInput	8	static
+../Core/Src/ApplicationCode.c:122:5:GameCheck	48	static
+../Core/Src/ApplicationCode.c:228:6:GameWaitForInput	8	static
+../Core/Src/ApplicationCode.c:268:6:doTurn	24	static
+../Core/Src/ApplicationCode.c:292:6:resetAfterDrop	8	static
+../Core/Src/ApplicationCode.c:304:6:EXTI0_IRQHandler	16	static
